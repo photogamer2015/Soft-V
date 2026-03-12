@@ -149,7 +149,7 @@ a:focus {
   color: initial;
 }
 
-a span{
+.navbar-brand span{
   color: #ffc107;
 }
 
