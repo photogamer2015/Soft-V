@@ -3,7 +3,9 @@ body {
   color: #000000;
   background-color: aliceblue;
 }
-
+.soft{
+  color:#ffc107;
+}
 .layout_padding {
   padding: 75px 0;
 }
