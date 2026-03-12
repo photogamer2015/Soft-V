@@ -149,6 +149,10 @@ a:focus {
   color: initial;
 }
 
+a span{
+  color: #ffc107;
+}
+
 .btn,
 .btn:focus {
   outline: none !important;
